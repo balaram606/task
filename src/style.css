@@ -120,6 +120,7 @@ footer{
     display: grid;
     grid-template-columns: 6fr 6fr;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 footer button{
